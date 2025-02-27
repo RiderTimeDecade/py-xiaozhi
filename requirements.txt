@@ -1,0 +1,10 @@
+# python=3.12.8
+requests==2.32.3
+paho-mqtt==2.1.0
+PyAudio==0.2.14
+pynput==1.7.7
+opuslib==3.0.1
+cryptography==44.0.0
+pycaw
+customtkinter==5.2.2
+pillow==10.2.0
