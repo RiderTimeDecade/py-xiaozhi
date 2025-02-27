@@ -19,7 +19,7 @@ py-xiaozhi 是一个使用 Python 开发的小智语音客户端，让您能够�
 
 
 ### 📚 相关项目
-- 原始硬件项目：[Huang-junsen/py-xiaozhi](https://github.com/Huang-junsen/py-xiaozhi)
+- 原始项目：[Huang-junsen/py-xiaozhi](https://github.com/Huang-junsen/py-xiaozhi)
 -
 
 ## ✨ 核心特性
